@@ -1,0 +1,6 @@
+a:6:{s:10:"teljes_nev";s:12:"Csala Mádé";s:5:"email";s:14:"csala@made.com";s:6:"jelszo";s:6:"asd123";s:10:"vezeteknev";s:5:"Csala";s:10:"keresztnev";s:6:"Mádé";s:9:"profilkep";s:5:"csala";}
+a:6:{s:10:"teljes_nev";s:6:"remete";s:5:"email";s:16:"remete@gmail.com";s:6:"jelszo";s:6:"asd123";s:10:"vezeteknev";s:6:"remete";s:10:"keresztnev";s:6:"remete";s:9:"profilkep";s:6:"remete";}
+a:6:{s:10:"teljes_nev";s:6:"remete";s:5:"email";s:23:"kezislegenyke@gmail.com";s:6:"jelszo";s:9:"asdasd123";s:10:"vezeteknev";s:6:"remete";s:10:"keresztnev";s:6:"remete";s:9:"profilkep";s:13:"kezislegenyke";}
+a:6:{s:10:"teljes_nev";s:11:"alma ferenc";s:5:"email";s:18:"lena1020@gmail.com";s:6:"jelszo";s:9:"Asdasd123";s:10:"vezeteknev";s:4:"alma";s:10:"keresztnev";s:6:"ferenc";s:9:"profilkep";s:8:"lena1020";}
+a:6:{s:10:"teljes_nev";s:11:"remete elek";s:5:"email";s:20:"almacsutka@gmail.com";s:6:"jelszo";s:6:"asd321";s:10:"vezeteknev";s:6:"remete";s:10:"keresztnev";s:4:"elek";s:9:"profilkep";s:10:"almacsutka";}
+a:6:{s:9:"teljesNev";s:13:"Pető József";s:5:"email";s:14:"done@gmail.com";s:6:"jelszo";s:9:"Asdasd123";s:10:"vezeteknev";s:5:"Pető";s:10:"keresztnev";s:7:"József";s:9:"profilkep";s:4:"done";}
